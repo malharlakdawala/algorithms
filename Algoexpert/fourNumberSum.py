@@ -28,7 +28,7 @@ def fourNumberSum(array, targetSum):
     print(result_array)
 
 
-print(fourNumberSum([7, 6, 4, -1, 1, 2], 16))
+fourNumberSum([7, 6, 4, -1, 1, 2], 16)
 
 #
 # for i in range(1,len(array)-1):
